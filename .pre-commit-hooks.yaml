@@ -1,6 +1,6 @@
-- id: pyre
-  name: pyre
-  entry: pyre
+- id: pyre-check
+  name: pyre-check
+  entry: pyre check
   language: python
   types: [python]
   pass_filenames: false
