@@ -1,6 +1,6 @@
 - id: pyre-check
   name: pyre-check
-  entry: pyre --local-configuration ".pyre_configuration" check
+  entry: pyre check
   language: python
   types: [python]
   pass_filenames: false
